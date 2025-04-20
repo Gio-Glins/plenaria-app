@@ -1,5 +1,5 @@
 {
-  "name": "plenaria-votacao",
+  "name": "plenaria-app",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
