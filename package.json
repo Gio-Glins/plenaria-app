@@ -11,6 +11,5 @@
     "react": "latest",
     "react-dom": "latest",
     "xlsx": "^0.18.5",
-    "shadcn/ui": "latest"
   }
 }
